@@ -68,7 +68,6 @@ The project demonstrates that logistic regression can effectively predict the li
 
 ## 👩‍💻 Author
 
-**Gauri Phatate**
-🔗 [GitHub Profile](https://github.com/Gauri9977)
+🔗 [**Gauri Phatate**](https://github.com/Gauri9977)
 
 ---
